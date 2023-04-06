@@ -1,0 +1,17 @@
+.sidebar {
+  background-color: #000;
+  margin-top: 8px;
+  margin-left: 8px;
+  padding: 5px;
+  border-radius: 3px;
+  color: wheat;
+  display: inline;
+  position: absolute;
+  top: 19;
+  left: 19;
+  z-index: 2;
+}
+
+.map-container {
+  border-radius: 8px;
+}
